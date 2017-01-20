@@ -1,3 +1,6 @@
+#num1 {
+color: red
+}
 .cen {
     text-align:center;
 }
@@ -9,9 +12,13 @@ header {
 }
 article img {
 	border:15px dashed green;
+	padding: 15px 15px 15px 15px;
 }
 footer {
 	font-family: Courier;
 	font-weight: bold;
 	font-size: 50pt;
+}
+h2 {
+    margin: 5px 5px 5px 5px;
 }
